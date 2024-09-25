@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://entansup.github.io/sitemap.entansup.gz
+Sitemap: https://entansup.github.io/app/sitemap.entansup.gz
+Sitemap: https://entansup.github.io/assets/sitemap.entansup.gz
+Sitemap: https://entansup.github.io/css/sitemap.entansup.gz
+Sitemap: https://entansup.github.io/data/sitemap.entansup.gz
+Sitemap: https://entansup.github.io/includes/sitemap.entansup.gz
+Sitemap: https://entansup.github.io/item/sitemap.entansup.gz
+Sitemap: https://entansup.github.io/src/sitemap.entansup.gz
